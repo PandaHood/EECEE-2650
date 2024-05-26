@@ -1,0 +1,7 @@
+HW5A created by Nicole Contreras and Nikolas Sanderson 5/25/2024
+
+This turn the Maze into a graph and use BFS and DFS to find the end.
+
+To run the make file run make. 
+If the make file fails run: g++ main.cpp -o output
+Then run .\output to run
